@@ -8,6 +8,7 @@ All the information about this project is uploaded in the PDF ->
 Propuesta de Trabajo Fin de Grado por Eduar.pdf (Final Degree Project Proposal by Eduar).
 
 Spanish:
+
 Desarrollando desde cero una app en Android de ayuda a la memorización por flashcards del propio sistema Android, la app es autónoma (stand-alone), para el aprendizaje individual de conceptos técnicos avanzados.
 
 Su funcionamiento se basa en una única pantalla (una Activity) en la que, con un clip del usuario, aparecerá aleatoriamente una pregunta del temario, y el usuario podrá introducir la respuesta que considere oportuna y, mediante un botón de validación, compararla con la respuesta correcta.
