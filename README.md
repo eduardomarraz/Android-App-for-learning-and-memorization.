@@ -1,9 +1,9 @@
 Proyecto Final de Grado
 Desarrollo de una aplicación para dispositivos móviles para el aprendizaje y la memorización
 
-Titulación: Desarrollo de Aplicaciones Multiplataforma
-Autor: Eduardo Martínez Ramírez
-Tutor: Damián Sualdea Soy
+Titulación: Desarrollo de Aplicaciones Multiplataforma                                                                             
+Autor: Eduardo Martínez Ramírez                                                                        
+Tutor: Damián Sualdea Soy                                                                                                                        
 
 Índice:
 Índice de contenidos
