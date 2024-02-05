@@ -7,6 +7,8 @@ This app, when loaded, will present a screen with operating instructions, with a
 All the information about this project is uploaded in the PDF ->
 Propuesta de Trabajo Fin de Grado por Eduar.pdf (Final Degree Project Proposal by Eduar).
 
+If you just want to try it, install the apk: androidflash.apk
+
 Spanish:
 
 Desarrollando desde cero una app en Android de ayuda a la memorización por flashcards del propio sistema Android, la app es autónoma (stand-alone), para el aprendizaje individual de conceptos técnicos avanzados.
@@ -17,3 +19,5 @@ Esta app, al cargarse presentará una pantalla de instrucciones de manejo, con u
 
 Toda la informacion sobre este proyecto esta subida en el Pdf ->
 Propuesta de Trabajo Fin de Grado por Eduar.pdf
+
+¡Si quieres probarla tan solo debes instalar la apk: androidflash.apk! :D
